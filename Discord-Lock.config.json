@@ -1,0 +1,19 @@
+{
+    "hasShownAttention": true,
+    "currentVersionInfo": {
+        "version": "1.0.0",
+        "hasShownChangelog": true
+    },
+    "locked": false,
+    "settings": {
+        "codeType": "custom-numeric",
+        "hash": "539c0bdc43b8091be32cf59dcf7dbf53eea2abe9eb795109b9ede1cd279b5ac9d8fc9d44231673894500a8ee0deb3f8a63963978d688c470f21986d66af7c5e129c8a41ecfc2efa7e32e9cb883e9ef1fe5a496bf9881c7feab23a692995495fa59f6054dd584a49d4703875d26d1746a431c4214bf6dc9260cdd1441cecc0140a841153a992b6740d1d5523d6086d38a6e07f6a576f70ec0e069c4fd39ffff71f96a421df9bd1606faa6cd1fa60669dfa1e35745151645fe024876fdbf3e428f1cd4f03e38401458b013da02cb1dd165d3c671a46d07cb30e1e442ebd7f07328c5e0c1d454ca99bfb0ee19e4b288d5a003d1262ffe86c0923168dae936af36ab18bdf2f12492dbe49a179d0558a4146839b7f6effada2645467b888bde3cb1c9bd31915e45373119d6145de54648c2ed7fadb1a6f207b61e8ff21a75dc4005880491ed9e32fb65e82cabfca7e1bb64b1611606da413e1bccfe1a59a282c7308d1cc23a0b781a7c82685ba1fb104d87e6404a8ba3917cb16c3c25657470b35a56ac5fe8b8fbe9f3809fe8732a92bd78927299bc857ed467b8f135b0e677a7e61ad785973bcb60ede54648cc1516abdf29a78e18192acae23ee8e6aae080a6ea095383cf5d54706f93165231ea8d4835cd7b45ee56ad92eb46236b255f0e9932f6587b70b4ece8e0fae9f51c54d68414208ef937b73af79a779cd042fa746fff97",
+        "salt": "/RQgYGD3tykDVpkLgphDnjxbdfHx/G26Fh+uEvj7vrWnzESmIQi86/tkUY8jEkJ6MGf9Ah/Ax2D9NR0H9Kkj3OoOK4rIvo6xRn+A9TC23Jls3AMe8ZWSZj2nWZ04HNA6Zh/DXpoMd51mrNvu+5KQ79jU/cjdOCaiiau1ekK4ojY=",
+        "iterations": 10000,
+        "autolock": 60,
+        "keybind": "control+l",
+        "highlightButtons": false,
+        "lockOnStartup": true,
+        "hideNotifications": false
+    }
+}
